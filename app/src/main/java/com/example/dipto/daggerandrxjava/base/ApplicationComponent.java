@@ -11,7 +11,7 @@ import dagger.Component;
 @Component(modules = {
         ApplicationModule.class,
 })
-public class ApplicationComponent {
+public interface ApplicationComponent {
 
 
 }
