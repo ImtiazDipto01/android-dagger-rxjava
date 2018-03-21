@@ -1,7 +1,9 @@
-package com.example.dipto.daggerandrxjava;
+package com.example.dipto.daggerandrxjava.home;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import com.example.dipto.daggerandrxjava.R;
 
 public class MainActivity extends AppCompatActivity {
 
